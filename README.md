@@ -1,11 +1,13 @@
 MBSliderView-Xamarin-iOS
 ========================
 
-MBSliderView-Xamarin-iOS
+This is a Xamarin/C# MonoTouch port from Mathieu Bolard's MBSliderView iOS component (https://github.com/mattlawer/MBSliderView).
+
+Usage information can be found on the demo project.
 
 
 License
-=======
+-------
 
 This component is licensed under the same terms as its original Obj-C component, as follows:
 
